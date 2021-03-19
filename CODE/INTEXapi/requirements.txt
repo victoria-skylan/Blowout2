@@ -2,7 +2,7 @@ argon2-cffi==19.2.0
 cffi==1.14.0
 Django==1.11.29
 django-cors-headers==3.0.2
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 enum34==1.1.10
 psycopg2==2.8.5
 pycparser==2.20
